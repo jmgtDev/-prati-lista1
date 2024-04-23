@@ -10,7 +10,7 @@ Abaixo você encontrará duas formas de executar os arquivos localmente.
 
 > **3 -** Entre na pasta correspondente ao algoritmo que deseja executar e, no terminal, digite: `node index.js` para rodar a aplicação. Pronto, com esses passos já é possível executar cada um dos algoritmos.
 
-**A segunda forma é fazendo o download dos arquivos e das depedências.**
+**A segunda forma é fazendo o download dos arquivos.**
 
 > **1 -** Com a página do repositório online aberta, clique no botão "Code" e depois em "Download ZIP".
 
